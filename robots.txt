@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://scomeala.github.io/sitemap.html.gz
+Sitemap: https://scomeala.github.io/app/sitemap.html.gz
+Sitemap: https://scomeala.github.io/assets/sitemap.html.gz
+Sitemap: https://scomeala.github.io/css/sitemap.html.gz
+Sitemap: https://scomeala.github.io/includes/sitemap.html.gz
+Sitemap: https://scomeala.github.io/item/sitemap.html.gz
+Sitemap: https://scomeala.github.io/src/sitemap.html.gz
